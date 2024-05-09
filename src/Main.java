@@ -1,5 +1,5 @@
 import java.math.BigDecimal;
-//přidaný komentář
+
 public class Main {
     public static void ukol1() {
         System.out.println("Hello world!");
